@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sagars/Desktop/DS LAB/LAB 2/output/lab2'
+relocations:     []
+...
